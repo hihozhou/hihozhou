@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/hihozhou/hihozhou/raw/master/developer.gif"/>
+  <img align="center" src="https://raw.githubusercontent.com/hihozhou/hihozhou/main/developer.gif"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=hihozhou&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
 
